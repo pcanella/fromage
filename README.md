@@ -13,7 +13,9 @@ var fondue = require('fondue');
 
 var someRandomUrl = 'http://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=cheese%20fondue&rt=nc&LH_ItemCondition=3&_trksid=p2045573.m1684';
 
-fondue.objectify(someRandomUrl);
+var f = fondue.objectify(someRandomUrl);
+
+console.log(f);
 
 /*
   returns {
