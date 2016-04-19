@@ -1,0 +1,20 @@
+{
+  "name": "fondue",
+  "version": "1.0.0",
+  "description": "Turn a query string into an object",
+  "main": "fondue.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pcanella/fondue.git"
+  },
+  "author": "Patrick Canella <patrickcanella@gmail.com> (http://patcanella.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcanella/fondue/issues"
+  },
+  "homepage": "https://github.com/pcanella/fondue",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
