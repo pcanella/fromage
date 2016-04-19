@@ -2,7 +2,7 @@
 Parses query strings into objects for easier query string handling. Always a pain doing this, so nice to have a small snippet do it for you!
 
 # installation
-`npm install fondue --save`
+`npm install fromage --save`
 
 # usage
 
