@@ -15,8 +15,14 @@ var someRandomUrl = 'http://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=chee
 
 fondue.objectify(someRandomUrl);
 
- /*
-  * returns {"_from":"R40","_sacat":"0","_nkw":"cheese%20fondue",
-  * "rt":"nc","LH_ItemCondition":"3","_trksid":"p2045573.m1684"}
-  */
+/*
+  returns {
+      "_from":"R40",
+      "_sacat":"0",
+      "_nkw":"cheese%20fondue",
+      "rt":"nc",
+      "LH_ItemCondition":"3",
+      "_trksid":"p2045573.m1684"
+    }
+*/
 ```
