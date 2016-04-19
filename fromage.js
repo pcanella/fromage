@@ -13,5 +13,5 @@ function objectify(url) {
 }
 
 module.exports = {
-    objectify = objectify
+    objectify: objectify
 }
